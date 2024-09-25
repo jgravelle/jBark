@@ -1,4 +1,5 @@
 # jBark Library Documentation
+![image](https://github.com/user-attachments/assets/9a021ada-b9d5-4e78-98cb-ec8695a0a189)
 
 ## Table of Contents
 1. [Overview and Introduction](#overview-and-introduction)
@@ -209,4 +210,6 @@ A: The simple voice conversion feature in jBark provides basic pitch and tempo a
 Q: How can I improve the quality of voice conversion?
 A: Use high-quality audio samples for voice characteristic extraction, ideally with clear speech and minimal background noise. You can also experiment with adjusting the pitch shifting and tempo adjustment parameters in the `simple_voice_conversion` method for better results.
 
-For more questions and answers, visit our GitHub issues page or join our community forum.di
+For more questions and answers, visit our GitHub issues page or join our community forum.
+
+![image](https://github.com/user-attachments/assets/5387b408-bf11-4458-9f1f-94cac2e79dd0)
