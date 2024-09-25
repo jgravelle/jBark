@@ -14,7 +14,7 @@
 
 ## Overview and Introduction
 
-jBark is a powerful Python library that builds upon the capabilities of the original Bark text-to-speech project, adding simple voice conversion features. It provides a seamless interface for generating high-quality speech from text, extracting basic voice characteristics, and applying these characteristics to generated audio.
+jBark is a powerful Python library that builds upon the capabilities of the original Bark text-to-speech project [https://github.com/suno-ai/bark], adding simple voice conversion features. It provides a seamless interface for generating high-quality speech from text, extracting basic voice characteristics, and applying these characteristics to generated audio.
 
 Key features of jBark include:
 - Text-to-speech generation using the Bark model
