@@ -50,7 +50,11 @@ To install jBark, follow these steps:
    pip install torch torchaudio librosa
    ```
 
-   Note: For GPU acceleration, make sure to install the appropriate CUDA version compatible with your PyTorch installation.
+   Note: For GPU acceleration, make sure to install the appropriate CUDA version compatible with your PyTorch installation, e.g.:
+
+   ```
+   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+   ```
 
 ### Troubleshooting
 
