@@ -3,7 +3,6 @@ import time
 import numpy as np
 from jbark import JBark, SAMPLE_RATE
 from scipy.io import wavfile
-import librosa
 
 class ExpandedJBarkTestSuite:
     def __init__(self):
@@ -26,8 +25,8 @@ class ExpandedJBarkTestSuite:
         # Test with different text lengths
         texts = [
             "Short text.",
-            "This is a medium-length text with some variation in words and punctuation!",
-            "This is a longer text that includes multiple sentences. It has various punctuation marks, like commas, periods, and even a question mark? The goal is to test how jBark handles longer inputs with more complexity."
+            "This is a medium-length text [laugh] with some variation in words and punctuation!",
+            "This is a longer text [sighs] that includes multiple sentences. It has various punctuation marks, like commas, periods, and even a question mark? The goal is to test how jBark handles longer inputs with more complexity."
         ]
         
         for i, text in enumerate(texts):
