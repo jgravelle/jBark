@@ -1,4 +1,4 @@
-1. [Overview and Introduction](#overview-and-introduction)
+![image](https://github.com/user-attachments/assets/9a021ada-b9d5-4e78-98cb-ec8695a0a189)
 
 Please act as an expert Python programmer and software engineer. The attached jBark.md file contains the complete and up-to-date codebase for our application. Your task is to thoroughly analyze the codebase, understand its programming flow and logic, and provide detailed insights, suggestions, and solutions to enhance the application's performance, efficiency, readability, and maintainability.
 
